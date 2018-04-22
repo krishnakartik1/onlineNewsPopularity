@@ -31,7 +31,7 @@ accuracy of 0.7151118.
 xgboost algorithm has been used on the preprocessed file (data.csv). Parameter tuning 
 has been done using GridSearchCV in sklearn and cv function in xgboost.
 
-### Software Requirements
+## Software Requirements
 - python Version - 3.6
 - Libraries required -
     - pandas

@@ -12,7 +12,7 @@ In this file an effort to replicate the paper "A Proactive Intelligent Decision
 Support System for Predicting the Popularity of Online News" has been made.
 
 ## Research Paper 2 - "Predicting the Popularity of Online News from Content Metadata"
-### preprocessing.py 
+### preprocessing.ipynb 
 Data preprocessing is done in this file.
 
 Generates two data files - 
